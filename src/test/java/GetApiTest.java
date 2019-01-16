@@ -26,7 +26,7 @@ public class GetApiTest extends TestBase {
 
 
     }
-
+// Test method
     @Test
     public void gettestwithoutheaders() throws IOException, Exception
     {
